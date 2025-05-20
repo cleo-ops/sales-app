@@ -1,1 +1,1 @@
-# sales-app
+# Suivi des ventes
