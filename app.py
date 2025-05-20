@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 #import matplotlib.pyplot as plt
-import seaborn as sns
+#import seaborn as sns
 
 # Titre de l'application
 st.title("Visualisation des ventes 📊")
